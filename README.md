@@ -1,4 +1,4 @@
-# Tecnologia-na-M-sica
+# Tecnologia-na-Música
 🎼 Tecnologia na Música: Do Fonógrafo à Virtualização Digital
 Este repositório faz parte do desafio de projeto da DIO, utilizando o NotebookLM como ferramenta de aprendizagem ativa para explorar a evolução tecnológica no universo musical.
 1. Contexto e Objetivos
